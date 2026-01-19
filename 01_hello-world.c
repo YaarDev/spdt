@@ -35,6 +35,6 @@ and their performance/results in a single program. The system should be able to:
 */
 
 int main(void) {
-     printf("Hello, World!\n");
+     printf("University Student & Event Management System\n");
      return 0;
 }
