@@ -103,5 +103,5 @@ The design demonstrates:
 ## ▶️ How to Compile and Run
 
 ```bash
-gcc src/01_hello-world.c -o spdt_program
+gcc university-student-event-management.c -o spdt_program
 ./spdt_program
