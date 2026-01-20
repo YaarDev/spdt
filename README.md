@@ -85,7 +85,6 @@ Including:
 ### 6️⃣ Structured & Defensive Programming Concepts
 The design demonstrates:
 - Efficient data organization using `struct`
-- Use of `typedef` for clarity
 - Use of `enum` for event types
 - Use of `union` where mutually exclusive scores are required
 - Input validation and defensive checks
@@ -96,7 +95,7 @@ The design demonstrates:
 ## 🛠️ Technologies Used
 - Language: **C**
 - Compiler: `gcc`
-- Platform: macOS / Linux / Windows (terminal-based)
+- Platform: Cross-platform (terminal-based)
 
 ---
 
